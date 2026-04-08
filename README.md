@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # DevOps Lab
 
 A hands-on DevOps portfolio project focused on core junior-level infrastructure skills. In this lab, I set up an Ubuntu Server virtual machine, installed and managed Nginx, configured basic firewall and SSH security, created a Bash health-check script, automated it with cron, and documented the full workflow in GitHub.
@@ -50,7 +50,3 @@ linux-admin-lab/
 ├── scripts/
 │   └── health_check.sh
 └── screenshots/
-=======
-# linux-admin-demo
-DevOps lab with Ubuntu, Nginx, Bash, cron, and GitHub
->>>>>>> 80778a99065faa94b95c9d95a743c9ee2d438817
