@@ -30,7 +30,7 @@ The VM booted successfully and I was able to log in with my username and passwor
 I collected basic information about the server to confirm it was working properly.
 
 ### Commands Used
-```bash
+
 whoami - shows the current logged-in user
 hostname - shows the server name
 pwd - shows the current directory
@@ -251,7 +251,7 @@ The cron job ran automatically and appended script output to health.log.
 
 I uploaded the finished project to GitHub.
 
-Commands Used
+### Commands Used
 git add .
 git commit -m "commit"
 git branch -M main
